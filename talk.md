@@ -137,6 +137,8 @@ Doesn't really matter which is which.  Just make note.
 
 # Pulseview
 
+![](static/pulsview-samples.png)
+
 ::: notes
 
 Some speaker notes here
@@ -145,6 +147,8 @@ Some speaker notes here
 
 ## Configure Lables
 
+![](static/pulseview-label-inputs.png)
+
 ::: notes
 
 Some speaker notes here
@@ -152,6 +156,8 @@ Some speaker notes here
 :::
 
 ## Select Sample Rate
+
+![](static/pulseview-select-samples.png)
 
 ::: notes
 
@@ -163,6 +169,8 @@ Too low and you may not capture everything, or get more interference from noise.
 :::
 
 ## Select Number of Samples
+
+![](static/pulseview-select-samples.png)
 
 ::: notes
 
@@ -178,6 +186,8 @@ I recommend 10-20 times your sample rate
 
 ## Record Samples
 
+![](static/pulseview-start-button.png)
+
 ::: notes
 
 Start recording your samples
@@ -190,6 +200,8 @@ And then push a few together to see what happens.
 
 # Reviewing Results
 
+![](static/pulsview-samples.png)
+
 ::: notes
 
 You can clearly see the clock signals.
@@ -199,6 +211,8 @@ And signal on the data line when we pressed buttons.
 
 ## Zoom in.
 
+![](static/pulsview-zoom-in.png)
+
 ::: notes
 
 Some speaker notes here
@@ -207,6 +221,8 @@ Some speaker notes here
 
 ## Keep zooming.
 
+![](static/pulseview-keep-zooming.png)
+
 ::: notes
 
 Some speaker notes here
@@ -214,6 +230,8 @@ Some speaker notes here
 :::
 
 ## There you go.
+
+![](static/pulseview-thats-enough-zooming.png)
 
 ::: notes
 
