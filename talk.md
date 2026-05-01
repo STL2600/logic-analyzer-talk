@@ -211,7 +211,7 @@ And signal on the data line when we pressed buttons.
 
 ## Zoom in.
 
-![](static/pulsview-zoom-in.png)
+![](static/pulseview-zoom-in.png)
 
 ::: notes
 
