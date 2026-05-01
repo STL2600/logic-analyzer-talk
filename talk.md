@@ -301,6 +301,50 @@ Some speaker notes here
 
 :::
 
+# Okay. We Smart.
+
+Now what?
+
+::: notes
+
+While that was fun, what can we do with this now?
+
+Can we automate decoding it, rather that visually inspecting it.
+
+:::
+
+## Decoders
+
+::: notes
+
+Some speaker notes here
+
+:::
+
+## Custom Decoders
+
+::: notes
+
+Some speaker notes here
+
+:::
+
+## Enter Claude
+
+::: notes
+
+Some speaker notes here
+
+:::
+
+## Decoder In Action
+
+::: notes
+
+Some speaker notes here
+
+:::
+
 ## First Page
 
 - My
