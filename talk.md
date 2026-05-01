@@ -145,7 +145,7 @@ Some speaker notes here
 
 :::
 
-## Configure Lables
+## Configure Labels
 
 ![](static/pulseview-label-inputs.png)
 
@@ -382,8 +382,6 @@ Some speaker notes here
 ::: notes
 
 Some speaker notes here
-
-bump
 
 :::
 
