@@ -231,6 +231,8 @@ Let's review the signals for each button press
 
 ## A Button
 
+![](static/a.png)
+
 ::: notes
 
 Some speaker notes here
@@ -238,6 +240,8 @@ Some speaker notes here
 :::
 
 ## B Button
+
+![](static/b.png)
 
 ::: notes
 
@@ -247,6 +251,8 @@ Some speaker notes here
 
 ## Start Button
 
+![](static/start.png)
+
 ::: notes
 
 Some speaker notes here
@@ -254,6 +260,8 @@ Some speaker notes here
 :::
 
 ## Select Button
+
+![](static/select.png)
 
 ::: notes
 
@@ -263,6 +271,8 @@ Some speaker notes here
 
 ## Up Button
 
+![](static/up.png)
+
 ::: notes
 
 Some speaker notes here
@@ -270,6 +280,8 @@ Some speaker notes here
 :::
 
 ## Down Button
+
+![](static/down.png)
 
 ::: notes
 
@@ -279,6 +291,8 @@ Some speaker notes here
 
 ## Left Button
 
+![](static/left.png)
+
 ::: notes
 
 Some speaker notes here
@@ -287,6 +301,8 @@ Some speaker notes here
 
 ## Right Button
 
+![](static/right.png)
+
 ::: notes
 
 Some speaker notes here
@@ -294,6 +310,8 @@ Some speaker notes here
 :::
 
 ## B and Right Together
+
+![](static/b%20and%20right.png)
 
 ::: notes
 
@@ -331,6 +349,8 @@ Some speaker notes here
 
 ## Enter Claude
 
+![](static/asking-claude.png)
+
 ::: notes
 
 Some speaker notes here
@@ -339,35 +359,13 @@ Some speaker notes here
 
 ## Decoder In Action
 
-::: notes
-
-Some speaker notes here
-
-:::
-
-## First Page
-
-- My
-- Talk
-- Outline
-
-## Content Page
-
-Some important info
+![](static/pulseview-decoder-in-action.png)
 
 ::: notes
 
 Some speaker notes here
 
 :::
-
-# Next Big Section
-
-## Content Page 2
-
-An important image
-
-![](https://placecats.com/200/300)
 
 # The End
 
